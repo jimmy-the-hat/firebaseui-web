@@ -39,8 +39,8 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "closure-builder": "^2.3.8",
-    "firebase": "^7.23.0",
-    "firebase-tools": "^7.16.2",
+    "firebase": "^13.4.0",
+    "firebase-tools": "^15.37.0",
     "fs-extra": "^3.0.1",
     "google-closure-compiler": "^20190415.0.0",
     "google-closure-library": "^20190415.0.0",
@@ -52,7 +52,7 @@
     "gulp-connect": "^5.5.0",
     "gulp-css-flip": "^0.4.0",
     "gulp-css-inline-images": "^0.1.1",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^6.0.1",
     "gulp-util": "^3.0.7",
     "protractor": "^7.0.0",
     "streamqueue": "^1.1.1"
